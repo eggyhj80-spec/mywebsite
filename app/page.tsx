@@ -45,6 +45,13 @@ const roles = [
     role: "Marketing Manager · APAC & Global Markets",
     summary: "Global GTM, demand generation and digital strategy for developer and ecosystem programs spanning AI, cloud and emerging technology.",
   },
+{
+    company: "Samsung Electronics",
+    website: "https://www.samsung.com",
+    dates: "Nov 2005 — Jul 2012",
+    role: "Team Leader · Senior Project Manager",
+    summary: "Led a 10-person developer cooperation team for Samsung mobile devices, driving market sensing, ecosystem promotion, third-party and university partnerships, and technical evangelism, support and training — after two years as an engineer developing CDMA and dual-mode (CDMA/GSM) mobile phones, including SMS and Bluetooth features.",
+  },
 ];
 
 const cases = [
